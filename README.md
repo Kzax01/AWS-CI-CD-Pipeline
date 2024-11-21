@@ -10,7 +10,7 @@ Feel free to explore my projects, read my articles, and learn with me! 🚀
 
 In this article, I dive into the world of CI/CD pipelines, explaining the concept, its benefits, and the essential AWS services I used to implement a CI/CD workflow.  
 
-### Check out the article here: [What is CI/CD?](https://github.com/Kzax01/AWS-CI-CD-Pipeline)
+### Check out the article here: [What is CI/CD?](https://github.com/Kzax01/AWS-CI-CD-Pipeline/blob/main/Part%201%20CICD%20full%20Explanation.md)
 
 ---
 
