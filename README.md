@@ -24,8 +24,7 @@ Key points covered in the article:
 - **Using Security Tools**: Integrating BurpSuite and other tools into your pipeline.
 - **IAM and Permissions**: Managing access securely to prevent unauthorized access.
 
-### Read more here: [Securing CI/CD Pipelines](https://github.com/Kzax01/AWS-CI-CD-Pipeline)
-
+### Read more here: [Securing CI/CD Pipelines](https://github.com/Kzax01/AWS-CI-CD-Pipeline/blob/main/Part%202%20AWS%20Powered%20CICD%20Pipeline%20Security.md)
 ---
 
 ## 🚧 Next Step: Building an AWS CI/CD Architecture
