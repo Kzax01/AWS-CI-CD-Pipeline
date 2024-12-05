@@ -28,16 +28,16 @@ Alright, let's begin shall we ? 🌟
 
 ## Table of Contents
 
-- 🔐 **Introduction to CI/CD Pipeline Security on AWS**
-- 🛡️ **Identity and Access Management**
-- 💻 **Securing Code Repositories**
-- 🛠️ **Protecting Build Artifacts**
-- 🚀 **Securing Deployments**
-- 📊 **Logging and Monitoring**
-- 🔍 **Security Testing**
-- 🔄 **Patching and Updates**
-- 📜 **Compliance Considerations**
-- 🚀 **Advanced Tips**
+- [**🔐 Introduction to CI/CD Pipeline Security on AWS**](#1-introduction-to-cicd-pipeline-security-on-aws)
+- [**🛡️ Identity and Access Management**](#2-identity-and-access-management)
+- **[💻 Securing Code Repositories**](#3-securing-code-repositories)
+- [**🛠️ Protecting Build Artifacts**](#4-protecting-build-artifacts)
+- [**🚀 Securing Deployments**](#5-securing-deployments)
+- [**📊 Logging and Monitoring**](#6-logging-and-monitoring)
+- [**🔍 Security Testing**](#7-security-testing)
+- [**🔄 Patching and Updates**](#8-patching-and-updates)
+- [**📜 Compliance Considerations**](#9-compliance-considerations)
+- [**🚀 Advanced Tips and Best Practices**](#10-advanced-tips-and-best-practices)
 
 💡 **Quick reminder**: A CI/CD pipeline automates the process of building, testing, and deploying code, ensuring faster delivery, consistent quality, and reduced risks in software development.
 
