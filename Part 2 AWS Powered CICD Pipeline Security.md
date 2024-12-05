@@ -270,7 +270,7 @@ Let's make sure your infrastructure stays secure and rock-solid! 🔐💪 Time t
 
    Want to boost your CI/CD security even further? 🚀 Let’s explore some advanced practices that will take your pipeline protection to new heights! 🔐
 ---
-## 10. Advanced Considerations and Best Practices :
+## 10. Advanced Tips and Best Practices :
 ![Advanced Practices](https://media.licdn.com/dms/image/v2/D4E12AQH6tcY1PQNMOQ/article-inline_image-shrink_1000_1488/article-inline_image-shrink_1000_1488/0/1732208384920?e=1738800000&v=beta&t=pi7iaKpQ7oK_oRVnGpYdkCXJMFhwVGdi6FfjZKIGVL4)
 
 - **Client-Side Encryption**: Use **AWS KMS** to protect sensitive data.
