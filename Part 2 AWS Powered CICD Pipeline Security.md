@@ -1,3 +1,5 @@
+![imageintro](https://media.licdn.com/dms/image/v2/D4E12AQHIJMQDVb0SYA/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1732123316793?e=1738800000&v=beta&t=yJqkwtuylnKp7ACWaNNFdwiT4gJPSurk15VVB9uHORE)
+
 # Guess who's back with the second part of the guide on securing your CI/CD pipeline! 🎉
 
 I really enjoyed writing this article because it allowed me to combine two of my passions: Cybersecurity tools and AWS Cloud. 🌟 I hope you find it just as exciting and insightful as I did while creating it.
@@ -26,16 +28,16 @@ Alright, let's begin shall we ? 🌟
 
 ## Table of Contents
 
-- 🔐 **Introduction to CI/CD Pipeline Security on AWS**
-- 🛡️ **Identity and Access Management**
-- 💻 **Securing Code Repositories**
-- 🛠️ **Protecting Build Artifacts**
-- 🚀 **Securing Deployments**
-- 📊 **Logging and Monitoring**
-- 🔍 **Security Testing**
-- 🔄 **Patching and Updates**
-- 📜 **Compliance Considerations**
-- 🚀 **Advanced Tips**
+- [**🔐 Introduction to CI/CD Pipeline Security on AWS**](#1-introduction-to-cicd-pipeline-security-on-aws)
+- [**🛡️ Identity and Access Management**](#2-identity-and-access-management)
+- **[💻 Securing Code Repositories**](#3-securing-code-repositories)
+- [**🛠️ Protecting Build Artifacts**](#4-protecting-build-artifacts)
+- [**🚀 Securing Deployments**](#5-securing-deployments)
+- [**📊 Logging and Monitoring**](#6-logging-and-monitoring)
+- [**🔍 Security Testing**](#7-security-testing)
+- [**🔄 Patching and Updates**](#8-patching-and-updates)
+- [**📜 Compliance Considerations**](#9-compliance-considerations)
+- [**🚀 Advanced Tips and Best Practices**](#10-advanced-tips-and-best-practices)
 
 💡 **Quick reminder**: A CI/CD pipeline automates the process of building, testing, and deploying code, ensuring faster delivery, consistent quality, and reduced risks in software development.
 
@@ -268,7 +270,7 @@ Let's make sure your infrastructure stays secure and rock-solid! 🔐💪 Time t
 
    Want to boost your CI/CD security even further? 🚀 Let’s explore some advanced practices that will take your pipeline protection to new heights! 🔐
 ---
-## 10. Advanced Considerations and Best Practices :
+## 10. Advanced Tips and Best Practices :
 ![Advanced Practices](https://media.licdn.com/dms/image/v2/D4E12AQH6tcY1PQNMOQ/article-inline_image-shrink_1000_1488/article-inline_image-shrink_1000_1488/0/1732208384920?e=1738800000&v=beta&t=pi7iaKpQ7oK_oRVnGpYdkCXJMFhwVGdi6FfjZKIGVL4)
 
 - **Client-Side Encryption**: Use **AWS KMS** to protect sensitive data.
