@@ -26,6 +26,8 @@ However, while using CI/CD brings many advantages, it also comes with its share 
 - 🔐 CI/CD vulnerabilities & how to address them
 - 💡 Security tips for a robust pipeline
 
+   [➡️ Link here.](https://github.com/Kzax01/AWS-CI-CD-Pipeline/blob/main/Part%202%20AWS%20Powered%20CICD%20Pipeline%20Security.md)
+
 Get ready to dive into the world of secure cloud solutions and deployment automation! 🎯
 
 ---
@@ -36,7 +38,8 @@ CI/CD is a common practice in software development that stands for Continuous In
 - ➢ CD, which can mean either Continuous Delivery or Continuous Deployment, focuses on automating the deployment of changes to production or pre-production environments.
 
 ## 🔄 How do CI/CD phases work together?
-![Image 2](https://media.licdn.com/dms/image/v2/D4E12AQFAynS-yd-p-Q/article-inline_image-shrink_1500_2232/article-inline_image-shrink_1500_2232/0/1730066117828?e=1735776000&v=beta&t=M3l5Un_ZzPSS5Fe4vX_0W-bJd-WV8fvShS7WwMAG-Xk)
+
+   ![Image 2](https://media.licdn.com/dms/image/v2/D4E12AQFAynS-yd-p-Q/article-inline_image-shrink_1500_2232/article-inline_image-shrink_1500_2232/0/1730066117828?e=1735776000&v=beta&t=M3l5Un_ZzPSS5Fe4vX_0W-bJd-WV8fvShS7WwMAG-Xk)
 
 Let's see how these phases interact within a CI/CD pipeline and which steps are crucial for ensuring effective deployment.
 
@@ -82,6 +85,7 @@ After reading this, I promise the use of such-and-such software will be much cle
 
 ### ➡️ CI (Continuous Integration):
 - **Plan – Jira:**
+  
 ![Image 4](https://media.licdn.com/dms/image/v2/D4E12AQGzQtkP1uN0XA/article-inline_image-shrink_1500_2232/article-inline_image-shrink_1500_2232/0/1730109494791?e=1735776000&v=beta&t=3I0oE7hfGWOWPFFYrOJo3xLB9RIMdFg2lpE2g2jT8HE)
 
   ⇨ Jira: This is a project management and task tracking tool widely used to organize work within development teams. It's particularly useful in agile environments, allowing the creation of user stories, bug tracking, and sprint organization.
@@ -89,6 +93,7 @@ After reading this, I promise the use of such-and-such software will be much cle
 
 
 - **Code – GitHub and GitLab:**
+  
 ![github](https://media.licdn.com/dms/image/v2/D4E12AQF2RnRoZvS59w/article-inline_image-shrink_1500_2232/article-inline_image-shrink_1500_2232/0/1730108885670?e=1735776000&v=beta&t=Az8fRbNjpOXH_YdDg_5dpMhM8HG8xsuD9Q7ezihIio4) 
   
   - These two services are Git-based code management platforms that enable teams to collaborate on code, manage versions, and automate workflows via CI/CD pipelines.
@@ -99,6 +104,7 @@ After reading this, I promise the use of such-and-such software will be much cle
 
 
 - **Build – Gradle:**
+  
 ![Image 5](https://media.licdn.com/dms/image/v2/D4E12AQHcEWsPTZNVKw/article-inline_image-shrink_1000_1488/article-inline_image-shrink_1000_1488/0/1730111386992?e=1735776000&v=beta&t=eCAI5jHrRcraMdOPPKPN0HgOT5bmwq-BoFZnW4ZUKjQ)
 
   - ⇨ Gradle: A build tool primarily used in Java projects, but can also be utilized for other languages. It manages the compilation of source code, dependency management, and the generation of executable files (like .jar or .war files).
@@ -106,6 +112,7 @@ After reading this, I promise the use of such-and-such software will be much cle
 
 
 - **Test – Jest:**
+  
 ![Image 6](https://media.licdn.com/dms/image/v2/D4E12AQES58o5c3Q2zQ/article-inline_image-shrink_1000_1488/article-inline_image-shrink_1000_1488/0/1730111669872?e=1735776000&v=beta&t=g8NwAgaCKaxR5g9PjjD3aVYsx2GXQdOn--r1xN1JXLY)
 
   - ⇨ Jest: A testing framework for JavaScript applications, particularly used for testing React components. It allows for the creation of unit tests that verify each function or component returns the correct result.
@@ -117,6 +124,7 @@ After reading this, I promise the use of such-and-such software will be much cle
 #### ➡️ CD (Continuous Delivery/Deployment):
 
 - **Release – Jenkins:**
+  
 ![Image 7](https://media.licdn.com/dms/image/v2/D4E12AQF5SumWU0NSxA/article-inline_image-shrink_1000_1488/article-inline_image-shrink_1000_1488/0/1730112198787?e=1735776000&v=beta&t=nIIGmo_WHfAHRF1080cAAq0MyEUxasDeUdYz9lwsSUM)
 
   - ⇨ Jenkins: A very popular tool for orchestrating CI/CD pipelines. It allows you to define build, test, and deployment steps via pipelines.
@@ -124,6 +132,7 @@ After reading this, I promise the use of such-and-such software will be much cle
 
 
 - **Deploy – Docker & AWS Lambda:**
+  
 ![Image 8](https://media.licdn.com/dms/image/v2/D4E12AQELqdxN6z-BwQ/article-inline_image-shrink_1500_2232/article-inline_image-shrink_1500_2232/0/1730114800838?e=1735776000&v=beta&t=ghYoIjd6pQfKutZryWyWN4MCeL9tN3nHecBIUXRo2cs)
 
   - ⇨ Docker: It allows you to create containers that package the application with all its dependencies so it can run consistently on any machine.
@@ -133,6 +142,7 @@ After reading this, I promise the use of such-and-such software will be much cle
 
 
 - **Operate – Kubernetes and Terraform:**
+  
 ![Image 9](https://media.licdn.com/dms/image/v2/D4E12AQEcMuZPgdrpqw/article-inline_image-shrink_1500_2232/article-inline_image-shrink_1500_2232/0/1730113487708?e=1735776000&v=beta&t=fIKDI0DPk5uZkGfKR2pdIMLe-e17GKIJ6NrnmOU9ZCw)
 
   - ⇨ Kubernetes: A container orchestration platform that manages the deployment, scaling, and high availability of containerized applications.
@@ -142,6 +152,7 @@ After reading this, I promise the use of such-and-such software will be much cle
 
 
 - **Monitor – Prometheus and Datadog:**
+  
 ![Image 10](https://media.licdn.com/dms/image/v2/D4E12AQH_sTj5sGXhPQ/article-inline_image-shrink_1500_2232/article-inline_image-shrink_1500_2232/0/1730113868450?e=1735776000&v=beta&t=PeIECKNzPVAwsnrpPGYWp-JmbiXAu8mGBbGbB2SFbDA)
 
 - ⇨ Prometheus: An open-source monitoring system that collects performance metrics from an application (CPU, memory, network usage, etc.). It also allows configuring alerts for when defined thresholds are exceeded.
@@ -156,6 +167,7 @@ After reading this, I promise the use of such-and-such software will be much cle
 ---
 ## 🔍 **Difference between Continuous Delivery and Continuous Deployment:**  
 You may have noticed that I used the term (Continuous Delivery/Deployment) in the title. While they are often confused, it’s crucial to understand their differences. Continuous deployment can be seen as an extension of the continuous delivery concept.
+
 ![Image 11](https://media.licdn.com/dms/image/v2/D4E12AQHcVMUFZ78fhQ/article-inline_image-shrink_1500_2232/article-inline_image-shrink_1500_2232/0/1730066117252?e=1735776000&v=beta&t=L3paOEPDn6zz-RUBXlgp7i65_Yk6l_au1WIULSVcWww)
 
 
@@ -168,6 +180,7 @@ You may have noticed that I used the term (Continuous Delivery/Deployment) in th
 ---
 ## 📊 **DORA Metrics - DevOps Research & Assessment:**  
 DORA metrics have become the standard for measuring DevOps team performance, allowing you to evaluate the efficiency of your CI/CD pipeline and identify areas for improvement.  
+
 ![Image 12](https://media.licdn.com/dms/image/v2/D4E12AQG71m3KwiKcjQ/article-inline_image-shrink_1500_2232/article-inline_image-shrink_1500_2232/0/1730066117310?e=1735776000&v=beta&t=MAxpR43w7tC2gU_WlpuXgTYhd6U3qrL0ISMk-5ksHGM)
 
 
