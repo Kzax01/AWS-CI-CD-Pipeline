@@ -30,6 +30,7 @@ Key points covered in the article:
 ## 🚧 Next Step: Building an AWS CI/CD Architecture
 
 Now that we've covered the basics, it's time to move to the next step of this huge project: constructing an AWS CI/CD architecture! This part is currently in progress and will be up soon! 💻🔧
+We will be using Terraform & AWS Services through the console.
 
 Stay tuned for updates! **[In Progress]**
 
@@ -37,6 +38,6 @@ Stay tuned for updates! **[In Progress]**
 
 ## 💬 Let's Connect!
 
-Feel free to connect with me on LinkedIn: [Kenza S. - Cyber & Cloud](https://www.linkedin.com/in/kenza-s)
+Feel free to connect with me on LinkedIn: [Kenza In The Cloud](https://www.linkedin.com/in/kenza-in-the-cloud/)
 
 Looking forward to sharing more! ✨
