@@ -287,41 +287,39 @@ Indeed, this is a significant step toward automation and efficiency in our devel
 ➡ Various tools exist, each with its specifics.  
 ➡ Staying informed and adaptable is crucial in a rapidly evolving tech landscape.  
 
-Are you ready to explore together how to secure your deployments while keeping them agile? In the next part, we will dive into the exciting challenges of security in CI/CD pipelines. 🔒♾️
+Are you ready to explore together how to secure your deployments while keeping them agile? 
+In the next part, we will dive into the exciting challenges of security in CI/CD pipelines. 🔒♾️
 
-I look forward to hearing your feedback and thoughts on this article! If you think it could help someone, feel free to share it on your networks!  
-Thank you.  
-    - Kenza
 ----
-📚 **Ressources Used:**
-- Atlassian CI/CD Guide - Atlassian  
-- AWS CI/CD Documentation - AWS Documentation  
-- DevOps CI/CD Guide - DevOps.com  
-- Intro to CI/CD - Codecademy  
-- Understand DORA Metrics - DORA Guide  
-- Continuous Delivery VS Continuous Deployment Article - Martin Fowler  
 
-🛠️ **Tools and Tutorials:**
-➡️ **CI (Continuous Integration):**
-- Jira Official Site: [Jira](https://www.atlassian.com/software/jira)  
-- Confluence Official Site: [Confluence](https://www.atlassian.com/software/confluence)  
-- GitHub Official Site: [GitHub Documentation](https://docs.github.com/en)  
-- GitLab Official Site: [GitLab Documentation](https://docs.gitlab.com/)  
-- Gradle Official Site: [Gradle Guide](https://gradle.org/guides/)  
-- Jest Official Site: [Jest Guide](https://jestjs.io/docs/getting-started)
+## 📚 **Ressources Used:**
 
-➡️ **CD (Continuous Delivery/Deployment):**
-- Jenkins Official Site: [Jenkins](https://www.jenkins.io/)  
-- Docker Official Site: [Docker Documentation](https://docs.docker.com/)  
-- AWS Lambda Official Site: [AWS Lambda Developer Guide](https://docs.aws.amazon.com/lambda/latest/dg/welcome.html)  
-- Kubernetes Official Site: [Kubernetes Documentation](https://kubernetes.io/docs/home/)  
-- Terraform Official Site: [Terraform Blog](https://www.terraform.io/blog)  
-- Prometheus Official Site: [Prometheus Documentation](https://prometheus.io/docs/introduction/overview/)  
-- Datadog Official Site: [Monitoring 101 with Datadog](https://www.datadoghq.com/blog/monitoring-101-with-datadog/)  
+| **Nom**                                | **Lien**                                                                 |
+|----------------------------------------|---------------------------------------------------------------------------|
+| **Atlassian CI/CD Guide**              | [Atlassian](https://www.atlassian.com)                                    |
+| **AWS CI/CD Documentation**            | [AWS Documentation](https://aws.amazon.com/documentation/)                |
+| **DevOps CI/CD Guide**                 | [DevOps.com](https://www.devops.com)                                      |
+| **Intro to CI/CD**                     | [Codecademy](https://www.codecademy.com)                                  |
+| **Understand DORA Metrics**            | [DORA Guide](https://www.devops-research.com)                             |
+| **Continuous Delivery VS Continuous Deployment Article** | [Martin Fowler](https://martinfowler.com/bliki/ContinuousDeliveryVsContinuousDeployment.html) |
+
+## 🛠️ **Tools and Tutorials:**
+
+| **CI (Continuous Integration)**                                                | **CD (Continuous Delivery/Deployment)**                                           |
+|-------------------------------------------------------------------------------|----------------------------------------------------------------------------------|
+| [Jira](https://www.atlassian.com/software/jira)                                 | [Jenkins](https://www.jenkins.io/)                                                |
+| [Confluence](https://www.atlassian.com/software/confluence)                     | [Docker Documentation](https://docs.docker.com/)                                  |
+| [GitHub Documentation](https://docs.github.com/en)                             | [AWS Lambda Developer Guide](https://docs.aws.amazon.com/lambda/latest/dg/welcome.html) |
+| [GitLab Documentation](https://docs.gitlab.com/)                               | [Kubernetes Documentation](https://kubernetes.io/docs/home/)                      |
+| [Gradle Guide](https://gradle.org/guides/)                                     | [Terraform Blog](https://www.terraform.io/blog)                                   |
+| [Jest Guide](https://jestjs.io/docs/getting-started)                           | [Prometheus Documentation](https://prometheus.io/docs/introduction/overview/)     |
+|                                                                               | [Monitoring 101 with Datadog](https://www.datadoghq.com/blog/monitoring-101-with-datadog/) |
+
 ----
 
 ### 💬 Let's Connect!
 Thank you for taking the time to read through my article! If you'd like to connect, feel free to reach out on LinkedIn: [Kenza S. - Cyber & Cloud](https://www.linkedin.com/in/kenza-s-cyber-cloud)
 
-### ☁️  I look forward to connecting with you!
+###  I look forward to connecting with you!
 
+Kenza ☁️
