@@ -20,7 +20,8 @@ While they speed up development and automate deployments, their close connection
 
 In this article, we'll explore best practices to secure every phase of your CI/CD pipeline on AWS, from identity and access management to production deployment. Let’s minimize these risks together! 🔐
 
-![Image](https://media.licdn.com/dms/image/v2/D4E12AQH1sgDztPJVuw/article-inline_image-shrink_1000_1488/article-inline_image-shrink_1000_1488/0/1732207819888?e=1738800000&v=beta&t=GHXe6sdU6z0Ikeji9gwjo1tMuua8Si-DO5ee2HOoBz4)
+<img src="https://media.licdn.com/dms/image/v2/D4E12AQH1sgDztPJVuw/article-inline_image-shrink_1000_1488/article-inline_image-shrink_1000_1488/0/1732207819888?e=1738800000&v=beta&t=GHXe6sdU6z0Ikeji9gwjo1tMuua8Si-DO5ee2HOoBz4" width="600"/>
+
 
 Alright, let's begin shall we ? 🌟
 
@@ -30,7 +31,7 @@ Alright, let's begin shall we ? 🌟
 
 - [**🔐 Introduction to CI/CD Pipeline Security on AWS**](#1-introduction-to-cicd-pipeline-security-on-aws)
 - [**🛡️ Identity and Access Management**](#2-identity-and-access-management)
-- **[💻 Securing Code Repositories**](#3-securing-code-repositories)
+- [**💻 Securing Code Repositories**](#3-securing-code-repositories)
 - [**🛠️ Protecting Build Artifacts**](#4-protecting-build-artifacts)
 - [**🚀 Securing Deployments**](#5-securing-deployments)
 - [**📊 Logging and Monitoring**](#6-logging-and-monitoring)
@@ -56,7 +57,9 @@ On AWS, you can set up these pipelines with services like:
 - **AWS CodeBuild** for building and compiling
 - **AWS CodeDeploy** for handling deployments
 
-![Image](https://media.licdn.com/dms/image/v2/D4E12AQHSgpBD492K_Q/article-inline_image-shrink_400_744/article-inline_image-shrink_400_744/0/1732208178359?e=1738800000&v=beta&t=At7ofgyMY1uGBlbSYxnIapg9YXdp3SQrUxB_fLzV9Dg)
+<p align="center">
+  <img src="https://media.licdn.com/dms/image/v2/D4E12AQHSgpBD492K_Q/article-inline_image-shrink_400_744/article-inline_image-shrink_400_744/0/1732208178359?e=1738800000&v=beta&t=At7ofgyMY1uGBlbSYxnIapg9YXdp3SQrUxB_fLzV9Dg" alt="Image">
+</p>
 
 These tools offer a ton of flexibility, but securing your pipeline is key to prevent breaches and vulnerabilities.
 
@@ -68,7 +71,9 @@ Let’s dive into how Identity and Access Management (IAM) can help you control 
 
 ## 2. 🛡️ **Identity and Access Management**
 
-![Image](https://media.licdn.com/dms/image/v2/D4E12AQF_4Y2Q7L8pvw/article-inline_image-shrink_400_744/article-inline_image-shrink_400_744/0/1732208232693?e=1738800000&v=beta&t=U-eGglOoPZY1f-xwj_liiPtMIZI-8S2bqGi-oMKSjPI)
+<p align="center">
+  <img src="https://media.licdn.com/dms/image/v2/D4E12AQF_4Y2Q7L8pvw/article-inline_image-shrink_400_744/article-inline_image-shrink_400_744/0/1732208232693?e=1738800000&v=beta&t=U-eGglOoPZY1f-xwj_liiPtMIZI-8S2bqGi-oMKSjPI" alt="Image">
+</p>
 
 This is an overview of AWS Identity and Access Management, highlighting who can access resources, what resources are available, and the permissions required to access them within an AWS organization.
 
@@ -185,7 +190,10 @@ That's the last stage where the magic happens, but it’s also where the most ri
 
 ## 6. 📊 Logging and Monitoring:
 
-![Logging Image](https://media.licdn.com/dms/image/v2/D4E12AQHg9NG0MO9EQA/article-inline_image-shrink_400_744/article-inline_image-shrink_400_744/0/1732208385138?e=1738800000&v=beta&t=GYhT8uvh-ZwGIQUVK7tuNPMW8uAdeq1wGYIz32rQ3PE)
+<p align="center">
+  <img src="https://media.licdn.com/dms/image/v2/D4E12AQHg9NG0MO9EQA/article-inline_image-shrink_400_744/article-inline_image-shrink_400_744/0/1732208385138?e=1738800000&v=beta&t=GYhT8uvh-ZwGIQUVK7tuNPMW8uAdeq1wGYIz32rQ3PE" alt="Logging Image">
+</p>
+
 
 1. **Enable CloudTrail for logging**  
    ➥ Turn on AWS CloudTrail to log all resource activity across your AWS account. Store logs in S3 for long-term retention, and use CloudTrail Insights to detect unusual API usage or suspicious activities.
@@ -251,7 +259,10 @@ Let's make sure your infrastructure stays secure and rock-solid! 🔐💪 Time t
    Compliance is key to keeping your pipeline secure and audit-ready! 🔒 Let's dive into how to stay on top of regulations and ensure your CI/CD pipeline meets the standards every step of the way! 📜✅
 
 ## 9. 📜 Compliance and Regulation :
-![Compliance and Regulation](https://media.licdn.com/dms/image/v2/D4E12AQE5Sj3cew47uQ/article-inline_image-shrink_400_744/article-inline_image-shrink_400_744/0/1732208385522?e=1738800000&v=beta&t=facTSQjxf1Ymh0bCoo79-FvYGOKiHLnX733croej8QM)
+
+<p align="center">
+  <img src="https://media.licdn.com/dms/image/v2/D4E12AQE5Sj3cew47uQ/article-inline_image-shrink_400_744/article-inline_image-shrink_400_744/0/1732208385522?e=1738800000&v=beta&t=facTSQjxf1Ymh0bCoo79-FvYGOKiHLnX733croej8QM" alt="Compliance and Regulation">
+</p>
 
 1. **Understand Compliance Requirements**  
    ➥ Understand the compliance standards that apply to your organization, such as GDPR, SOC 2, HIPAA, etc.
@@ -289,24 +300,47 @@ Let's make sure your infrastructure stays secure and rock-solid! 🔐💪 Time t
 Securing your CI/CD pipeline on AWS is an ongoing effort. By applying best practices for permissions, secret management, logging, testing, and regular vulnerability scans, you’ll make your pipeline more robust against attacks. Add in compliance checks and a solid IAM strategy, and you’ve got a security-first pipeline from start to finish. The more proactive you are, the safer your app and business will be!!
 
 ### 🎯 Key Takeaways: Best Practices for Securing Your CI/CD Pipeline
-- **Embrace Least Privilege**: Limit access to only what’s necessary for each stage of the pipeline.
-- **Secure Your Code**: Implement code reviews, static code analysis, and encryption for sensitive data.
-- **Protect Build Artifacts**: Scan for vulnerabilities, sign artifacts, and use secure storage like **AWS ECR**.
-- **Automate Security Testing**: Incorporate automated security tests into every step of your CI/CD process.
-- **Monitor and Log Activities**: Leverage **CloudTrail** and **CloudWatch** for real-time monitoring and detailed logs.
-- **Regular Updates and Patching**: Use **AWS Systems Manager** and **Inspector** to keep your environment secure.
-- **Use IAM Best Practices**: Separate roles for build, test, and deploy, enforcing strict access controls.
-- **Ensure Compliance**: Align your pipeline with industry standards like **ISO 27001** or **SOC 2**.
 
-![Thank You](https://media.licdn.com/dms/image/v2/D4E12AQEL37m__Ezo2Q/article-inline_image-shrink_1500_2232/article-inline_image-shrink_1500_2232/0/1732208384556?e=1738800000&v=beta&t=D0UrVO_N3hVlpHti0UXuXwyyBw4_I3-5Ga9cyhr-Fw4)
+| 🎯 **Key Takeaways**                                          | **Best Practices for Securing Your CI/CD Pipeline**                                                                                                                                              |
+|---------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 🔐 **Embrace Least Privilege**                                | Limit access to only what’s necessary for each stage of the pipeline.                                                                                                                             |
+| 💻 **Secure Your Code**                                        | Implement code reviews, static code analysis, and encryption for sensitive data.                                                                                                                   |
+| 🛡️ **Protect Build Artifacts**                                | Scan for vulnerabilities, sign artifacts, and use secure storage like AWS ECR.                                                                                                                     |
+| 🤖 **Automate Security Testing**                              | Incorporate automated security tests into every step of your CI/CD process.                                                                                                                       |
+| 📈 **Monitor and Log Activities**                              | Leverage CloudTrail and CloudWatch for real-time monitoring and detailed logs.                                                                                                                     |
+| 🔄 **Regular Updates and Patching**                            | Use AWS Systems Manager and Inspector to keep your environment secure.                                                                                                                             |
+| 🔑 **Use IAM Best Practices**                                  | Separate roles for build, test, and deploy, enforcing strict access controls.                                                                                                                     |
+| ✅ **Ensure Compliance**                                       | Align your pipeline with industry standards like ISO 27001 or SOC 2.                                                                                                                              |
 
-Thank you for sticking with me until the very end! 🎉🙏  
-Your support and encouragement mean so much as I work on this project.  
-🚀 The next chapter will be even more exciting: I'll be designing and implementing a complete and advanced AWS CI/CD architecture, inspired by a fictional yet realistic scenario I’ve created!  
-🌟 It will not only be a fun challenge but also something practical and usable in the real world.  
-Stay tuned—this is just the beginning of something amazing!  
-As always, I’d love to hear your feedback! 💬✨  
-Thanks for being part of this journey with me! 🙌  
+--- 
 
-Kenza
+
+<p align="center">
+  <img src="https://media.licdn.com/dms/image/v2/D4E12AQEL37m__Ezo2Q/article-inline_image-shrink_1500_2232/article-inline_image-shrink_1500_2232/0/1732208384556?e=1738800000&v=beta&t=D0UrVO_N3hVlpHti0UXuXwyyBw4_I3-5Ga9cyhr-Fw4" alt="Thank You">
+</p>
+
+
+## 🎉 Thank You for Sticking with Me!
+
+Thank you for sticking with me until the very end! 🙏 Your support and encouragement mean so much as I work on this project. 
+
+---
+
+🚀 **What’s Next?**  
+The next chapter will be even more exciting: I'll be designing and implementing a **complete and advanced AWS CI/CD architecture**, inspired by a fictional yet realistic scenario I’ve created!
+
+🌟 **Why It's Special?**  
+It will not only be a fun challenge but also something **practical and usable in the real world**. Stay tuned—this is just the beginning of something amazing!
+
+---
+
+💬 **Your Feedback Is Always Welcome!**  
+As always, I’d love to hear your thoughts and feedback. Your input helps me improve and grow!
+
+---
+
+Thanks again for being part of this journey with me! 🙌  
+
+
+Kenza ☁️
  
