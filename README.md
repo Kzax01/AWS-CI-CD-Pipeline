@@ -29,8 +29,11 @@ Key points covered in the article:
 
 ## 🚧 Next Step: Building an AWS CI/CD Architecture
 
-Now that we've covered the basics, it's time to move to the next step of this huge project: constructing an AWS CI/CD architecture! This part is currently in progress and will be up soon! 💻🔧
-We will be using Terraform & AWS Services through the console.
+Now that we've covered the basics, it's time to move to the next step of this huge project: **Building an AWS CI/CD architecture!**
+
+We will be using **Terraform** & **AWS Services** through the console.
+
+## **➡️ This project has been paused because I'm working on Terraform Associate certification. Right after I got it ( January 2025) - we'll go back getting our hands dirty !**
 
 Stay tuned for updates! **[In Progress]**
 
