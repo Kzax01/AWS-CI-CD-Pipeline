@@ -1,5 +1,5 @@
 # 🚀Automate, Deliver, Succeed: The CI/CD Journey Begins Here!
-![Image 1](https://media.licdn.com/dms/image/v2/D4E12AQEzyGXboJ0Xig/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1730066117374?e=1735776000&v=beta&t=Tey5IpD8OSVOjvqsV29LK7pe637QTmZEg6WcQ40I-3Y)
+![Image 1](https://media.licdn.com/dms/image/v2/D4E12AQEzyGXboJ0Xig/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1730066117374?e=1741824000&v=beta&t=NFuj2UlohOL6Y9h-XM00PXFkorjPM4MOTcNCVP7dkx0)
 
 ## 📘 Complete CI/CD Guide: From Theory to Practice
 
@@ -39,7 +39,9 @@ CI/CD is a common practice in software development that stands for Continuous In
 
 ## 🔄 How do CI/CD phases work together?
 
-   ![Image 2](https://media.licdn.com/dms/image/v2/D4E12AQFAynS-yd-p-Q/article-inline_image-shrink_1500_2232/article-inline_image-shrink_1500_2232/0/1730066117828?e=1735776000&v=beta&t=M3l5Un_ZzPSS5Fe4vX_0W-bJd-WV8fvShS7WwMAG-Xk)
+<p align="center">
+  <img src="https://media.licdn.com/dms/image/v2/D4E12AQFAynS-yd-p-Q/article-inline_image-shrink_1500_2232/article-inline_image-shrink_1500_2232/0/1730066117828?e=1741824000&v=beta&t=JD4nLSSzdKe0yhF-tSKxfwPuVV66ogpHBc2SxpHhT7A" />
+</p>
 
 Let's see how these phases interact within a CI/CD pipeline and which steps are crucial for ensuring effective deployment.
 
@@ -71,7 +73,10 @@ Let's see how these phases interact within a CI/CD pipeline and which steps are 
 ---
 
 ## 🛠 In-Depth Explanation of Tools Used in CI/CD and Their Relevance:
-![Image 3](https://media.licdn.com/dms/image/v2/D4E12AQFKeIMKx6vVng/article-inline_image-shrink_1500_2232/article-inline_image-shrink_1500_2232/0/1730066117591?e=1735776000&v=beta&t=2ZohBHpTShl8E599nVbI6Io2Xfrki4QIIMtlwVmUTys)
+
+<p align="center">
+  <img src="https://media.licdn.com/dms/image/v2/D4E12AQFKeIMKx6vVng/article-inline_image-shrink_1500_2232/article-inline_image-shrink_1500_2232/0/1730066117591?e=1741824000&v=beta&t=r0rjdDZTHBbKzAMnWtEQlcm-D3rdT6iby3WPk0yEhUY" />
+</p>
 
 
 In a CI/CD pipeline, each phase relies on specific tools that facilitate automation, code management, testing, deployment, and application monitoring.
@@ -86,7 +91,10 @@ After reading this, I promise the use of such-and-such software will be much cle
 ### ➡️ CI (Continuous Integration):
 - **Plan – Jira:**
   
-![Image 4](https://media.licdn.com/dms/image/v2/D4E12AQGzQtkP1uN0XA/article-inline_image-shrink_1500_2232/article-inline_image-shrink_1500_2232/0/1730109494791?e=1735776000&v=beta&t=3I0oE7hfGWOWPFFYrOJo3xLB9RIMdFg2lpE2g2jT8HE)
+  <p align="center">
+  <img src="https://media.licdn.com/dms/image/v2/D4E12AQGzQtkP1uN0XA/article-inline_image-shrink_400_744/article-inline_image-shrink_400_744/0/1730109494791?e=2147483647&v=beta&t=Vl33YkpssoBY5dW3Lx5mP9jgOTSVt3il-r4ivIhQmEA" />
+</p>
+
 
   ⇨ Jira: This is a project management and task tracking tool widely used to organize work within development teams. It's particularly useful in agile environments, allowing the creation of user stories, bug tracking, and sprint organization.
   - ↬ Example: When a developer receives a new task (ticket) in Jira to fix a bug in the application, they can track this ticket from "To Do" to "In Progress," and then to "Done." This tracking provides complete visibility into the work done.
@@ -94,18 +102,24 @@ After reading this, I promise the use of such-and-such software will be much cle
 
 - **Code – GitHub and GitLab:**
   
-![github](https://media.licdn.com/dms/image/v2/D4E12AQF2RnRoZvS59w/article-inline_image-shrink_1500_2232/article-inline_image-shrink_1500_2232/0/1730108885670?e=1735776000&v=beta&t=Az8fRbNjpOXH_YdDg_5dpMhM8HG8xsuD9Q7ezihIio4) 
+  <p align="center">
+  <img src="https://media.licdn.com/dms/image/v2/D4E12AQF2RnRoZvS59w/article-inline_image-shrink_400_744/article-inline_image-shrink_400_744/0/1730108885669?e=2147483647&v=beta&t=lZw_nh-C4jnt62pH0kZp9avUu-gRFzJCwGubTZn7LPY" />
+</p>
   
   - These two services are Git-based code management platforms that enable teams to collaborate on code, manage versions, and automate workflows via CI/CD pipelines.
   - ⇨ GitHub: Very popular, especially in the open-source community. It's often used to host code projects and facilitate collaboration through pull requests.
     - ↬ Example: In an open-source project, a developer submits a pull request with a new feature or bug fix, and other team members can review the code, discuss changes, and merge it once approved.
+      
   - ⇨ GitLab: It offers a more integrated solution for enterprises, with comprehensive CI/CD pipelines and numerous customization options.
     - ↬ Example: On GitLab, whenever a developer pushes code to a branch, a CI pipeline can automatically run tests and build the project without needing external tools like Jenkins.
 
 
 - **Build – Gradle:**
   
-![Image 5](https://media.licdn.com/dms/image/v2/D4E12AQHcEWsPTZNVKw/article-inline_image-shrink_1000_1488/article-inline_image-shrink_1000_1488/0/1730111386992?e=1735776000&v=beta&t=eCAI5jHrRcraMdOPPKPN0HgOT5bmwq-BoFZnW4ZUKjQ)
+  <p align="center">
+  <img src="https://media.licdn.com/dms/image/v2/D4E12AQHcEWsPTZNVKw/article-inline_image-shrink_400_744/article-inline_image-shrink_400_744/0/1730111386992?e=2147483647&v=beta&t=dMu49dYG2NcH5PeKCXWjkLyw5h3Jcpk7Av6w3_b7cHo" />
+</p>
+
 
   - ⇨ Gradle: A build tool primarily used in Java projects, but can also be utilized for other languages. It manages the compilation of source code, dependency management, and the generation of executable files (like .jar or .war files).
     - ↬ Example: In a Java project, every time a developer pushes code on GitHub, Gradle compiles the code and creates a .jar file ready for testing or deployment.
@@ -113,7 +127,9 @@ After reading this, I promise the use of such-and-such software will be much cle
 
 - **Test – Jest:**
   
-![Image 6](https://media.licdn.com/dms/image/v2/D4E12AQES58o5c3Q2zQ/article-inline_image-shrink_1000_1488/article-inline_image-shrink_1000_1488/0/1730111669872?e=1735776000&v=beta&t=g8NwAgaCKaxR5g9PjjD3aVYsx2GXQdOn--r1xN1JXLY)
+  <p align="center">
+  <img src="https://media.licdn.com/dms/image/v2/D4E12AQES58o5c3Q2zQ/article-inline_image-shrink_400_744/article-inline_image-shrink_400_744/0/1730111669872?e=2147483647&v=beta&t=8JKx08q7e2o3o8h3ihdS1mSHhXbuCq1qGmFc1r7uAmY" />
+</p>
 
   - ⇨ Jest: A testing framework for JavaScript applications, particularly used for testing React components. It allows for the creation of unit tests that verify each function or component returns the correct result.
     - ↬ Example: In a React application, each new component can be tested with Jest to ensure it behaves as expected with different data sets.
@@ -125,7 +141,9 @@ After reading this, I promise the use of such-and-such software will be much cle
 
 - **Release – Jenkins:**
   
-![Image 7](https://media.licdn.com/dms/image/v2/D4E12AQF5SumWU0NSxA/article-inline_image-shrink_1000_1488/article-inline_image-shrink_1000_1488/0/1730112198787?e=1735776000&v=beta&t=nIIGmo_WHfAHRF1080cAAq0MyEUxasDeUdYz9lwsSUM)
+<p align="center">
+  <img src="https://media.licdn.com/dms/image/v2/D4E12AQF5SumWU0NSxA/article-inline_image-shrink_400_744/article-inline_image-shrink_400_744/0/1730112198787?e=2147483647&v=beta&t=-zY-rB0RPdSueGQR7-pEkrdMtzmVSMVVPVNdO5cNGEM" />
+</p>
 
   - ⇨ Jenkins: A very popular tool for orchestrating CI/CD pipelines. It allows you to define build, test, and deployment steps via pipelines.
     - ↬ Example: In a Node.js project, Jenkins can be configured to install dependencies with npm install, run tests with Jest, and automatically deploy the application once tests pass.
@@ -133,17 +151,22 @@ After reading this, I promise the use of such-and-such software will be much cle
 
 - **Deploy – Docker & AWS Lambda:**
   
-![Image 8](https://media.licdn.com/dms/image/v2/D4E12AQELqdxN6z-BwQ/article-inline_image-shrink_1500_2232/article-inline_image-shrink_1500_2232/0/1730114800838?e=1735776000&v=beta&t=ghYoIjd6pQfKutZryWyWN4MCeL9tN3nHecBIUXRo2cs)
+<p align="center">
+  <img src="https://media.licdn.com/dms/image/v2/D4E12AQELqdxN6z-BwQ/article-inline_image-shrink_1000_1488/article-inline_image-shrink_1000_1488/0/1730114800838?e=2147483647&v=beta&t=PPAYOj45jRG7ck-RVbsAetAalfXjqCDwDgK8nIE7s1U" />
+</p>
 
   - ⇨ Docker: It allows you to create containers that package the application with all its dependencies so it can run consistently on any machine.
     - ↬ Example: A developer can create a Docker image for a Node.js application and deploy it on a Kubernetes cluster, where each container is replicated and managed automatically.
+      
   - ⇨ AWS Lambda: A serverless computing service where you can run code without managing servers. It’s ideal for functions or microservices that don’t need a permanent infrastructure.
     - ↬ Example: An application deployed on AWS Lambda can be triggered whenever a user uploads a file to an S3 bucket, executing a function to process that file (like resizing it).
 
 
 - **Operate – Kubernetes and Terraform:**
   
-![Image 9](https://media.licdn.com/dms/image/v2/D4E12AQEcMuZPgdrpqw/article-inline_image-shrink_1500_2232/article-inline_image-shrink_1500_2232/0/1730113487708?e=1735776000&v=beta&t=fIKDI0DPk5uZkGfKR2pdIMLe-e17GKIJ6NrnmOU9ZCw)
+  <p align="center">
+  <img src="https://media.licdn.com/dms/image/v2/D4E12AQEcMuZPgdrpqw/article-inline_image-shrink_400_744/article-inline_image-shrink_400_744/0/1730113487708?e=2147483647&v=beta&t=hcX7s-4xliywqvWd52cKqHVunJtNCUPuIu1K7pcuqDc" />
+</p>
 
   - ⇨ Kubernetes: A container orchestration platform that manages the deployment, scaling, and high availability of containerized applications.
     - ↬ Example: For a large-scale application, Kubernetes manages pods (units of containers), ensuring that if a pod fails, it is automatically restarted. It also balances the load among multiple pods.
@@ -153,7 +176,10 @@ After reading this, I promise the use of such-and-such software will be much cle
 
 - **Monitor – Prometheus and Datadog:**
   
-![Image 10](https://media.licdn.com/dms/image/v2/D4E12AQH_sTj5sGXhPQ/article-inline_image-shrink_1500_2232/article-inline_image-shrink_1500_2232/0/1730113868450?e=1735776000&v=beta&t=PeIECKNzPVAwsnrpPGYWp-JmbiXAu8mGBbGbB2SFbDA)
+<p align="center">
+  <img src="https://media.licdn.com/dms/image/v2/D4E12AQH_sTj5sGXhPQ/article-inline_image-shrink_400_744/article-inline_image-shrink_400_744/0/1730113868450?e=2147483647&v=beta&t=YVTAHozDf9bKoy4UQcgZ7UW2SGGl-fM_ZUeeOI4IZXw" />
+</p>
+
 
 - ⇨ Prometheus: An open-source monitoring system that collects performance metrics from an application (CPU, memory, network usage, etc.). It also allows configuring alerts for when defined thresholds are exceeded.
     - ↬ Example: In a microservices architecture, Prometheus collects metrics from all microservices and allows the team to monitor performance in real-time and detect anomalies quickly.
@@ -168,7 +194,9 @@ After reading this, I promise the use of such-and-such software will be much cle
 ## 🔍 **Difference between Continuous Delivery and Continuous Deployment:**  
 You may have noticed that I used the term (Continuous Delivery/Deployment) in the title. While they are often confused, it’s crucial to understand their differences. Continuous deployment can be seen as an extension of the continuous delivery concept.
 
-![Image 11](https://media.licdn.com/dms/image/v2/D4E12AQHcVMUFZ78fhQ/article-inline_image-shrink_1500_2232/article-inline_image-shrink_1500_2232/0/1730066117252?e=1735776000&v=beta&t=L3paOEPDn6zz-RUBXlgp7i65_Yk6l_au1WIULSVcWww)
+<p align="center">
+  <img src="https://media.licdn.com/dms/image/v2/D4E12AQHcVMUFZ78fhQ/article-inline_image-shrink_400_744/article-inline_image-shrink_400_744/0/1730066117252?e=2147483647&v=beta&t=gMMrUi7wC4y5Z-jKPu6QkmRQphiu_0WniR5_NHFZ-ac" />
+</p>
 
 
 - **Continuous Delivery:** Automates the entire pipeline up to the staging or testing environment. The deployment to production then becomes a manual decision.  
@@ -181,7 +209,9 @@ You may have noticed that I used the term (Continuous Delivery/Deployment) in th
 ## 📊 **DORA Metrics - DevOps Research & Assessment:**  
 DORA metrics have become the standard for measuring DevOps team performance, allowing you to evaluate the efficiency of your CI/CD pipeline and identify areas for improvement.  
 
-![Image 12](https://media.licdn.com/dms/image/v2/D4E12AQG71m3KwiKcjQ/article-inline_image-shrink_1500_2232/article-inline_image-shrink_1500_2232/0/1730066117310?e=1735776000&v=beta&t=MAxpR43w7tC2gU_WlpuXgTYhd6U3qrL0ISMk-5ksHGM)
+<p align="center">
+  <img src="https://media.licdn.com/dms/image/v2/D4E12AQG71m3KwiKcjQ/article-inline_image-shrink_400_744/article-inline_image-shrink_400_744/0/1730066117310?e=2147483647&v=beta&t=6nZXM8udy7nFiLykhSWrn2OBz_pN38EbIGPfz_Vk-3g" />
+</p>
 
 
 ➔ **Importance of DORA Metrics:** By integrating these metrics into your CI/CD process, you can assess your team's performance and effectively communicate the status of deployments to stakeholders. It also helps you identify weaknesses and implement continuous improvements.
@@ -242,7 +272,9 @@ When setting up a CI/CD pipeline, it’s crucial to recognize common pitfalls th
 ---
 ## 🎯 **CONCLUSION AND KEY TAKEAWAYS:**
 
-![Image 13](https://media.licdn.com/dms/image/v2/D4E12AQFUrVHex31YCQ/article-inline_image-shrink_1500_2232/article-inline_image-shrink_1500_2232/0/1730066117324?e=1735776000&v=beta&t=5fr-P-PYyS_p0ILphcCx-AOpZFdrPjel9CG6LTEFwYE)
+<p align="center">
+  <img src="https://media.licdn.com/dms/image/v2/D4E12AQFUrVHex31YCQ/article-inline_image-shrink_400_744/article-inline_image-shrink_400_744/0/1730066117324?e=2147483647&v=beta&t=CrU53GrD-RbXPARqRaEAa10WLd0NiyFd8jf59WJIRDU" />
+</p>
 
 Phew, that was intense, but we made it through! Kudos to you for sticking with me till the end of this first part on CI/CD pipelines in AWS! 🎉
 
