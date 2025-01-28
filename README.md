@@ -4,7 +4,6 @@ Hi! I'm Kenza, and I'm thrilled to share my journey of mastering AWS and CI/CD p
   
 Feel free to explore my projects, read my articles, and learn with me! 🚀
 
----
 
 ## 📝 Article 1: What is CI/CD?
 
@@ -12,7 +11,6 @@ In this article, I dive into the world of CI/CD pipelines, explaining the concep
 
 ### Check out the article here: [What is CI/CD?](https://github.com/Kzax01/AWS-CI-CD-Pipeline/blob/main/Part%201%20CICD%20full%20Explanation.md)
 
----
 
 ## 🔒 Article 2: Securing CI/CD Pipelines with AWS & Cybersecurity Tools
 
@@ -24,23 +22,42 @@ Key points covered in the article:
 - **Using Security Tools**: Integrating BurpSuite and other tools into your pipeline.
 - **IAM and Permissions**: Managing access securely to prevent unauthorized access.
 
-### Read more here: [Securing CI/CD Pipelines](https://github.com/Kzax01/AWS-CI-CD-Pipeline/blob/main/Part%202%20AWS%20Powered%20CICD%20Pipeline%20Security.md)
----
+### Read more here: [Securing your AWS CI/CD Pipelines](https://github.com/Kzax01/AWS-CI-CD-Pipeline/blob/main/Part%202%20AWS%20Powered%20CICD%20Pipeline%20Security.md)
 
-## 🚧 Next Step: Building an AWS CI/CD Architecture
+
+## 🚧 Next Step: Building a secure AWS CI/CD Architecture
 
 Now that we've covered the basics, it's time to move to the next step of this huge project: **Building an AWS CI/CD architecture!**
 
-We will be using **Terraform** & **AWS Services** through the console.
+We will be using **Terraform** & **AWS Services** through the console for a banking app _(fictional scenario that've created)_.
 
-## **➡️ This project has been paused because I'm working on Terraform Associate certification. Right after I got it ( January 2025) - we'll go back getting our hands dirty !**
+## **➡️ This project has been paused because I'm working on Terraform Associate certification. Right after I got it ( FEB 2025) - we'll go back getting our hands dirty !**
 
 Stay tuned for updates! **[In Progress]**
 
----
 
-## 💬 Let's Connect!
+## 🌐  Let’s Connect!  
+Thank you for visiting my GitHub! 🌸  
 
-Feel free to connect with me on LinkedIn: [Kenza In The Cloud](https://www.linkedin.com/in/kenza-in-the-cloud/)
+Here, I share my **Cloud Security projects** and **AWS learning journey**.  
+Looking for **Cloud Computing Security** articles? Check out my **Medium**!  
 
-Looking forward to sharing more! ✨
+<p align="center">
+  <a href="https://www.linkedin.com/in/kenza-in-the-cloud/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://discord.com/users/kzax01" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
+  </a>
+  <a href="https://medium.com/@Kenza.In.The.Cloud" target="_blank">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium">
+  </a>
+</p>
+
+
+### ☁️ Let’s build the future of cloud together!  
+
+<p align="center">
+  <img src="https://i.pinimg.com/originals/91/1d/91/911d914aaf6194489a3f5626bed2bd3a.gif" width="600" alt="Cool GIF">
+</p>
+
