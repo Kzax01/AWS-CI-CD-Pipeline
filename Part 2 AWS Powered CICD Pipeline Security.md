@@ -1,4 +1,4 @@
-![Image 1](https://github.com/Kzax01/AWS-CI-CD-Pipeline/blob/main/The%20Ultimate%20CICD%20Guide%20part2%20kenza%20github.gif)
+![Image 1](https://github.com/Kzax01/AWS-CI-CD-Pipeline/blob/main/images_articles/The%20Ultimate%20CICD%20Guide%20part2%20kenza%20github.gif)
 
 # Guess who's back with the second part of the guide on securing your CI/CD pipeline! 🎉
 
