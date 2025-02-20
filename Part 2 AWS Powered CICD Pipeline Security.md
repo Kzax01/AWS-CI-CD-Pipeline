@@ -1,4 +1,6 @@
-![imageintro](https://media.licdn.com/dms/image/v2/D4E12AQHIJMQDVb0SYA/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1732123316793?e=1738800000&v=beta&t=yJqkwtuylnKp7ACWaNNFdwiT4gJPSurk15VVB9uHORE)
+<p align="center">
+  <img src="https://github.com/Kzax01/AWS-CI-CD-Pipeline/blob/main/The%20Ultimate%20CICD%20Guide%20part2%20kenza%20github.gif" width="1000" alt="Cool GIF">
+</p>
 
 # Guess who's back with the second part of the guide on securing your CI/CD pipeline! 🎉
 
@@ -20,8 +22,9 @@ While they speed up development and automate deployments, their close connection
 
 In this article, we'll explore best practices to secure every phase of your CI/CD pipeline on AWS, from identity and access management to production deployment. Let’s minimize these risks together! 🔐
 
-<img src="https://media.licdn.com/dms/image/v2/D4E12AQH1sgDztPJVuw/article-inline_image-shrink_1000_1488/article-inline_image-shrink_1000_1488/0/1732207819888?e=1738800000&v=beta&t=GHXe6sdU6z0Ikeji9gwjo1tMuua8Si-DO5ee2HOoBz4" width="600"/>
-
+<p align="center">
+<img src="https://github.com/Kzax01/AWS-CI-CD-Pipeline/blob/main/images_articles/1732207819888.png" width="800"/>
+</p>
 
 Alright, let's begin shall we ? 🌟
 
@@ -58,7 +61,7 @@ On AWS, you can set up these pipelines with services like:
 - **AWS CodeDeploy** for handling deployments
 
 <p align="center">
-  <img src="https://media.licdn.com/dms/image/v2/D4E12AQHSgpBD492K_Q/article-inline_image-shrink_400_744/article-inline_image-shrink_400_744/0/1732208178359?e=1738800000&v=beta&t=At7ofgyMY1uGBlbSYxnIapg9YXdp3SQrUxB_fLzV9Dg" alt="Image">
+  <img src="https://github.com/Kzax01/AWS-CI-CD-Pipeline/blob/main/images_articles/1732208178359.png" alt="Image">
 </p>
 
 These tools offer a ton of flexibility, but securing your pipeline is key to prevent breaches and vulnerabilities.
@@ -72,7 +75,7 @@ Let’s dive into how Identity and Access Management (IAM) can help you control 
 ## 2. 🛡️ **Identity and Access Management**
 
 <p align="center">
-  <img src="https://media.licdn.com/dms/image/v2/D4E12AQF_4Y2Q7L8pvw/article-inline_image-shrink_400_744/article-inline_image-shrink_400_744/0/1732208232693?e=1738800000&v=beta&t=U-eGglOoPZY1f-xwj_liiPtMIZI-8S2bqGi-oMKSjPI" alt="Image">
+  <img src="https://github.com/Kzax01/AWS-CI-CD-Pipeline/blob/main/images_articles/1732208232693.png" alt="Image">
 </p>
 
 This is an overview of AWS Identity and Access Management, highlighting who can access resources, what resources are available, and the permissions required to access them within an AWS organization.
@@ -101,7 +104,7 @@ Now that we've covered the pipeline's main vulnerabilities, let’s dive into se
 
 ## 3. 💻 **Securing Code Repositories**
 
-![Image](https://media.licdn.com/dms/image/v2/D4E12AQEnWjXYL5qG8g/article-inline_image-shrink_1000_1488/article-inline_image-shrink_1000_1488/0/1732208384401?e=1738800000&v=beta&t=0sp7zpTWcNweK8sTTkTRhsTlhCoQOF1ZfkhhfMKhyVk)
+![Image](https://github.com/Kzax01/AWS-CI-CD-Pipeline/blob/main/images_articles/1732208384401.png)
 
 Your code repository is the entry point of your CI/CD pipeline, so securing it is essential to:
 
@@ -128,7 +131,7 @@ We’ve just secured your source code, now let’s move on to protecting your bu
 
 ## 4. 🛠️ Protecting Build Artifacts:
 
-![Artifact Image](https://media.licdn.com/dms/image/v2/D4E12AQFMD9SxGfzYXA/article-inline_image-shrink_1000_1488/article-inline_image-shrink_1000_1488/0/1732208386288?e=1738800000&v=beta&t=HEZLoxvn0mFha8Z7pQRFcP3l_C9cCRXs86TDmRBwUJg)
+![Artifact Image](https://github.com/Kzax01/AWS-CI-CD-Pipeline/blob/main/images_articles/1732208386288.png)
 
 💡 But you may ask… Kenza, what's an Artifact ? No worries I got you! ➥ An artifact is a file produced during the compilation or build process. Examples include .jar files, .war packages, Docker images, and executable binaries.
 
@@ -159,7 +162,7 @@ These artifacts are essential for deploying applications or performing further s
 
 ## 5. 🔒 Securing Deployments:
 
-![Deployment Image](https://media.licdn.com/dms/image/v2/D4E12AQF3lx2RN2AueQ/article-inline_image-shrink_1000_1488/article-inline_image-shrink_1000_1488/0/1732208384388?e=1738800000&v=beta&t=B_2c-U1AOB3ccHfiYMpDsdDenQQ3vK-hkbKQxzyZ1HE)
+![Deployment Image](https://github.com/Kzax01/AWS-CI-CD-Pipeline/blob/main/images_articles/1732208384388.png)
 
 That's the last stage where the magic happens, but it’s also where the most risks can creep in. Let’s dive into best practices for a safe and smooth deployment process on AWS! 🔐👇
 
@@ -191,7 +194,7 @@ That's the last stage where the magic happens, but it’s also where the most ri
 ## 6. 📊 Logging and Monitoring:
 
 <p align="center">
-  <img src="https://media.licdn.com/dms/image/v2/D4E12AQHg9NG0MO9EQA/article-inline_image-shrink_400_744/article-inline_image-shrink_400_744/0/1732208385138?e=1738800000&v=beta&t=GYhT8uvh-ZwGIQUVK7tuNPMW8uAdeq1wGYIz32rQ3PE" alt="Logging Image">
+  <img src="https://github.com/Kzax01/AWS-CI-CD-Pipeline/blob/main/images_articles/1732208385138.png" alt="Logging Image">
 </p>
 
 
@@ -214,7 +217,7 @@ That's the last stage where the magic happens, but it’s also where the most ri
 
 ## 7. 🔍 Implementing Security Testing:
 
-![Security Testing Image](https://media.licdn.com/dms/image/v2/D4E12AQH0A3e2DuuymA/article-inline_image-shrink_1000_1488/article-inline_image-shrink_1000_1488/0/1732208384874?e=1738800000&v=beta&t=dQHAecUj8pYKzIZ07CR9BCKDU-gqkexThi53v64oXYI)
+![Security Testing Image](https://github.com/Kzax01/AWS-CI-CD-Pipeline/blob/main/images_articles/1732208384874.png)
 
 1. **Run automated security tests with AWS CodeBuild**  
    ➥ Set up AWS CodeBuild to automatically run security tests during each stage of your CI/CD pipeline. This ensures vulnerabilities are caught early.
@@ -239,7 +242,7 @@ That's the last stage where the magic happens, but it’s also where the most ri
 Let's make sure your infrastructure stays secure and rock-solid! 🔐💪 Time to tackle patching and updates management! 👇
 
 ## 8. 🔄 Patching and Updates Management :
-![Patching and Updates](https://media.licdn.com/dms/image/v2/D4E12AQHV-h-U6f0B6A/article-inline_image-shrink_1000_1488/article-inline_image-shrink_1000_1488/0/1732208384810?e=1738800000&v=beta&t=C6TToa6F372m4kxj-sIGw8pODt3cWFT9sTHtTwFk1FU)
+![Patching and Updates](https://github.com/Kzax01/AWS-CI-CD-Pipeline/blob/main/images_articles/1732208384810.png)
 
 1. **Automate Dependency Management**  
    ➥ Use tools like Dependabot and security-focused dependency scanners to ensure your dependencies are always up-to-date and free from vulnerabilities.
@@ -261,7 +264,7 @@ Let's make sure your infrastructure stays secure and rock-solid! 🔐💪 Time t
 ## 9. 📜 Compliance and Regulation :
 
 <p align="center">
-  <img src="https://media.licdn.com/dms/image/v2/D4E12AQE5Sj3cew47uQ/article-inline_image-shrink_400_744/article-inline_image-shrink_400_744/0/1732208385522?e=1738800000&v=beta&t=facTSQjxf1Ymh0bCoo79-FvYGOKiHLnX733croej8QM" alt="Compliance and Regulation">
+  <img src="https://github.com/Kzax01/AWS-CI-CD-Pipeline/blob/main/images_articles/1732208385522.png" alt="Compliance and Regulation">
 </p>
 
 1. **Understand Compliance Requirements**  
@@ -282,7 +285,7 @@ Let's make sure your infrastructure stays secure and rock-solid! 🔐💪 Time t
    Want to boost your CI/CD security even further? 🚀 Let’s explore some advanced practices that will take your pipeline protection to new heights! 🔐
 ---
 ## 10. Advanced Tips and Best Practices :
-![Advanced Practices](https://media.licdn.com/dms/image/v2/D4E12AQH6tcY1PQNMOQ/article-inline_image-shrink_1000_1488/article-inline_image-shrink_1000_1488/0/1732208384920?e=1738800000&v=beta&t=pi7iaKpQ7oK_oRVnGpYdkCXJMFhwVGdi6FfjZKIGVL4)
+![Advanced Practices](https://github.com/Kzax01/AWS-CI-CD-Pipeline/blob/main/images_articles/1732208384920.png)
 
 - **Client-Side Encryption**: Use **AWS KMS** to protect sensitive data.
 - **Multi-Factor Authentication (MFA)**: Enable MFA for critical access, especially for production environments.
@@ -316,7 +319,7 @@ Securing your CI/CD pipeline on AWS is an ongoing effort. By applying best pract
 
 
 <p align="center">
-  <img src="https://media.licdn.com/dms/image/v2/D4E12AQEL37m__Ezo2Q/article-inline_image-shrink_1500_2232/article-inline_image-shrink_1500_2232/0/1732208384556?e=1738800000&v=beta&t=D0UrVO_N3hVlpHti0UXuXwyyBw4_I3-5Ga9cyhr-Fw4" alt="Thank You">
+  <img src="https://github.com/Kzax01/AWS-CI-CD-Pipeline/blob/main/images_articles/1732208384556.png" alt="Thank You">
 </p>
 
 
@@ -339,8 +342,31 @@ As always, I’d love to hear your thoughts and feedback. Your input helps me im
 
 ---
 
-Thanks again for being part of this journey with me! 🙌  
+## 💬 Let’s Connect!  
+Thank you for visiting my GitHub! 🌸  
+
+Here, I share my **Cloud Security projects** and **AWS learning journey**.  
+Looking for **Cloud Computing Security** articles? Check out my **Medium**!  
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/kenza-in-the-cloud/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://discord.com/users/kzax01" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
+  </a>
+  <a href="https://medium.com/@Kenza.In.The.Cloud" target="_blank">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium">
+  </a>
+</p>
 
 
-Kenza ☁️
+### ☁️ Let’s build the future of cloud together!  
+
+
+
+<p align="center">
+  <img src="https://i.pinimg.com/originals/91/1d/91/911d914aaf6194489a3f5626bed2bd3a.gif" width="500" alt="Cool GIF">
+</p>
+
  
