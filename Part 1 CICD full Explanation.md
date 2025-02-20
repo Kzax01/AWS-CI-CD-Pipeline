@@ -1,5 +1,5 @@
 # 🚀Automate, Deliver, Succeed: The CI/CD Journey Begins Here!
-![Image 1](https://media.licdn.com/dms/image/v2/D4E12AQEzyGXboJ0Xig/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1730066117374?e=1741824000&v=beta&t=NFuj2UlohOL6Y9h-XM00PXFkorjPM4MOTcNCVP7dkx0)
+![Image 1](https://github.com/Kzax01/AWS-CI-CD-Pipeline/blob/main/images_articles/The%20Ultimate%20CICD%20Guide%20part1-%20github.gif)
 
 ## 📘 Complete CI/CD Guide: From Theory to Practice
 
